@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="rtl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,6 +15,7 @@
             background-color: #f4f4f4;
             color: #333;
             line-height: 1.6;
+            text-align: right; /* Align text to the right */
         }
 
         a {
